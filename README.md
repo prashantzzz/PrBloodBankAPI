@@ -48,10 +48,10 @@ POST /api/bloodbank
 ```
 ```json
 {
-  "donorName": "John Doe",
+  "donorName": "Prashant",
   "age": 28,
   "bloodType": "A+",
-  "contactInfo": "john@example.com",
+  "contactInfo": "prashant2003@example.com",
   "quantity": 450,
   "collectionDate": "2024-11-17T10:00:00",
   "expirationDate": "2024-12-29T10:00:00",
