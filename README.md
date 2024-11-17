@@ -3,6 +3,8 @@
 ## Project Overview
 This is a RESTful API built with ASP.NET Core for managing blood bank entries with CRUD operations, searching, filtering, sorting, and pagination.
 
+OUTPUT SCREENSHOT FILE IS ATTACHED
+
 ## Technologies Used
 - ASP.NET Core 6.0
 - C#
